@@ -60,7 +60,7 @@
 // "main": main.js
 // scripts "start":"electron ."
 // const => create a constant variable
-const electron = require("electron");
+const electron = require("electron"); hjh
 const app = electron.app;
 const ejs = require("ejs-electron");
 ejs.data({
